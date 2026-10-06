@@ -1,0 +1,2 @@
+# Build-time generated from environment vars by gen_secrets.sh. Never commit.
+secrets.h
